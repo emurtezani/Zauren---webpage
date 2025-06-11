@@ -20,7 +20,7 @@ The webpage is enriched with two simple photos describing the company‘s activi
 - Focused on writing and minimalism
 - A user-friendly design focused on accessibility
 
-# 🖼️ The screenshots of the webpage - in order to provide a quick preview (note: there is a link to the webpage in the 4th row)
+# 🖼️ The screenshots of the website (note: there is a link to the webpage in the 4th row)
 ![Homepage1] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage1.png?raw=true)
 ![Homepage2] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage2.png?raw=true)
 ![Homepage3] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage3.png?raw=true)
