@@ -25,4 +25,4 @@ The webpage is enriched with two simple photos describing the company‘s activi
 - ![Homepage2] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage2.png?raw=true)
 - ![Homepage3] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage3.png?raw=true)
 - ![Homepage4] (https://github.com/emurtezani/Zauren---webpage/blob/main/Homepage4.png?raw=true)
-- ![Contactpage] (https://github.com/emurtezani/Zauren---webpage/blob/main/Contactpage.png?raw=true)
+- ![Contactpage] (https://github.com/emurtezani/Zauren---webpage/blob/main/Contactpage.png)
