@@ -1,10 +1,10 @@
 # Zauren---website
 This is a website I built and launched on WordPress.com. 
 
-# a link to the website
+# Below is the link to the website
 🔗 (https://zaurens.wordpress.com)  
 
-# description of the website
+# Description of the website
 This website was created for **Zauren** - service business which deals with cleaning and maintenance of buildings, 
 gardens and swimming pools, as well as minor construction works. The purpose of building ths website was to make
 the company more visible and to attract more clients to the newly opened service bussiness.
@@ -14,12 +14,12 @@ There is a button in the header that redirects the user to another page where th
 There is also the main detailed text about the company's activities, and in the footer, clients can find the information such as contact details, address and opening hours. 
 The webpage is enriched with two simple photos describing the company‘s activities.
 
-# features
+# Features
 - Clean design
 - Responsive layout
 - Focused on writing and minimalism
 
-# the screenshots of the webpage - in order to provide a quick preview (note: there is a link to the webpage in the 4th row)
+# The screenshots of the webpage - in order to provide a quick preview (note: there is a link to the webpage in the 4th row)
 ![Homepage] ()
 ![Homepage] ()
 ![Homepage] ()
