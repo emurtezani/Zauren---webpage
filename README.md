@@ -2,7 +2,7 @@
 This is a website I built and launched on WordPress.com. 
 
 # 🔗 Below is the link to the website
- (https://zaurens.wordpress.com)  
+ (https://zauren.hr)  
 
 # 📄 Description of the website
 🎯 This website was created for **Zauren** - service business which deals with cleaning and maintenance of buildings, 
